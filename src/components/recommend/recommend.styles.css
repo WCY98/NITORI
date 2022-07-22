@@ -1,0 +1,15 @@
+.main {
+  margin-top: 30px;
+  margin-left: 20px;
+  /* margin :0 auto; */
+  max-width: 1300px;
+  box-sizing: border-box;
+}
+
+.main .recommends {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+  padding-left: 10px;
+}
